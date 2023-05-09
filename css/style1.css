@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine;
+}
+
+.plush{
+    background-color: bisque;
+    text-align: center;
+}
+
+
+img.plush{
+    width: 50%;
+}
+p.plush{
+    color:blueviolet;
+
+}
