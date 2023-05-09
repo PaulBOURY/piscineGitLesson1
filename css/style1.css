@@ -5,13 +5,16 @@ body{
 .plush{
     background-color: bisque;
     text-align: center;
+    width:50%
 }
 
 
 img.plush{
-    width: 50%;
+    width: 40%;
+    position: relative;
 }
 p.plush{
     color:blueviolet;
+    text-align: justify;
 
 }
