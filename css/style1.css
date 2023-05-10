@@ -21,5 +21,8 @@ p.plush{
 
 footer{
     background-color: aliceblue;
-    margin: 5px;
+    margin: 5px 3px;
+    border-top: 4px;
+    border-color:#f44336;
+    border-top-style: solid;
 }
